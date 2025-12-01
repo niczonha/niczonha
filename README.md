@@ -2,8 +2,8 @@
 
 <img src="img/capa.png" width="100%" />
 
-### Oi, meu nome é Nicoly Santos 👋
-- Desenvolvimento de Sistemas na Etec de Guaianazes
+### Oie! meu nome é Nicoly Santos 👋
+- Cursei Desenvolvimento de Sistemas na Etec de Guaianazes
 - Cursando Desenvolvimento de Software Multiplataforma na Fatec Itaquera 
 - 📫 Email: nicolyssantos21@gmail.com
 
