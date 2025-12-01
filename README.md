@@ -1,5 +1,6 @@
-### Oi, meu nome é Nicoly Silva 👋
+### Oi, meu nome é Nicoly Santos 👋
 
+<img src="img/capa.png" width="100%" />
 
 - Desenvolvimento de Sistemas na Etec de Guaianazes
 - Cursando Desenvolvimento de Software Multiplataforma na Fatec Itaquera 
