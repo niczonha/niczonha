@@ -1,6 +1,6 @@
 
 
-<img src="img/capa.png" width="100%" />
+<img src="img/capa.jpg" width="100%" />
 
 ### Oie! meu nome é Nicoly Santos 👋
 - Cursei Desenvolvimento de Sistemas na Etec de Guaianazes
